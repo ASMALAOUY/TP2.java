@@ -15,7 +15,8 @@ Exercice 4 — Recherche d’un rectangle de 1 dans une matrice binaire
 Exercice 5 — Permutation circulaire
 ![image alt](https://github.com/ASMALAOUY/tp2.cpp/blob/main/Capture%20d%E2%80%99%C3%A9cran%20ex6tp2.jpg?raw=true)
 Exercice 6 — Sous-tableau de somme maximale (Kadane)
-![image alt])(https://raw.githubusercontent.com/ASMALAOUY/tp2.cpp/6156bfa23192751e1268ac4fac5404e2a01ca5c9/Capture%20d%E2%80%99%C3%A9cran%20ex6tp2.jpg)
+![image alt](https://github.com/ASMALAOUY/tp2.cpp/blob/main/Capture%20d%E2%80%99%C3%A9cran%20ex6tp2.jpg?raw=true)
+
 Exercice 7 — Fréquence majoritaire (majorité absolue)
 ![image alt](https://raw.githubusercontent.com/ASMALAOUY/tp2.cpp/6156bfa23192751e1268ac4fac5404e2a01ca5c9/Capture%20d%E2%80%99%C3%A9cran%20ex7tp2.jpg)
 Exercice 8 — Nombres absents
